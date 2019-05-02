@@ -1,4 +1,4 @@
-//greeter.js
+//greeter.js 
 import styles from './Greeter.css';
 import React, { Component } from 'react';
 var config = require('./config.json');
